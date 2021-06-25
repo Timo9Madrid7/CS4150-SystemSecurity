@@ -1,0 +1,42 @@
+------------------------------------------------------------------------------
+RESULTS FOR THE UNIFORMITY OF P-VALUES AND THE PROPORTION OF PASSING SEQUENCES
+------------------------------------------------------------------------------
+   generator is <test.txt>
+------------------------------------------------------------------------------
+ C1  C2  C3  C4  C5  C6  C7  C8  C9 C10  P-VALUE  PROPORTION  STATISTICAL TEST
+------------------------------------------------------------------------------
+  2   0   0   0   0   2   0   0   0   2     ----       6/6       RandomExcursions
+  3   1   0   0   0   1   0   1   0   0     ----       6/6       RandomExcursions
+  3   0   0   1   1   0   0   0   1   0     ----       3/6    *  RandomExcursions
+  1   0   0   0   0   0   0   0   0   0     ----       0/1       RandomExcursions
+  1   0   0   0   0   0   0   0   0   0     ----       0/1       RandomExcursions
+  4   0   1   0   0   0   1   0   0   0     ----       5/6       RandomExcursions
+  2   1   0   0   2   1   0   0   0   0     ----       5/6       RandomExcursions
+  0   3   0   0   0   1   0   1   1   0     ----       6/6       RandomExcursions
+  1   0   1   0   0   1   0   2   1   0     ----       6/6       RandomExcursionsVariant
+  1   0   0   1   0   2   1   0   0   1     ----       6/6       RandomExcursionsVariant
+  1   0   0   0   0   3   1   0   0   1     ----       6/6       RandomExcursionsVariant
+  0   1   0   1   1   0   0   1   2   0     ----       6/6       RandomExcursionsVariant
+  0   0   1   1   1   0   2   1   0   0     ----       6/6       RandomExcursionsVariant
+  0   0   1   1   0   1   0   1   1   1     ----       6/6       RandomExcursionsVariant
+  0   1   0   0   3   0   1   0   0   1     ----       6/6       RandomExcursionsVariant
+  0   0   1   0   1   1   0   0   2   1     ----       6/6       RandomExcursionsVariant
+  0   0   0   0   1   1   1   2   1   0     ----       6/6       RandomExcursionsVariant
+  0   0   2   1   0   1   0   0   1   1     ----       6/6       RandomExcursionsVariant
+  0   2   0   1   0   1   1   0   1   0     ----       6/6       RandomExcursionsVariant
+  1   1   0   1   1   0   0   0   0   2     ----       6/6       RandomExcursionsVariant
+  0   2   0   1   0   1   1   1   0   0     ----       6/6       RandomExcursionsVariant
+  0   1   0   2   0   0   0   3   0   0     ----       6/6       RandomExcursionsVariant
+  0   1   1   0   0   0   2   1   1   0     ----       6/6       RandomExcursionsVariant
+  0   0   2   1   1   0   0   0   1   1     ----       6/6       RandomExcursionsVariant
+  0   2   2   0   0   0   0   1   1   0     ----       6/6       RandomExcursionsVariant
+  0   3   1   0   0   0   1   1   0   0     ----       6/6       RandomExcursionsVariant
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The minimum pass rate for the random excursion (variant) test
+is approximately = 5 for a sample size = 6 binary sequences.
+
+For further guidelines construct a probability table using the MAPLE program
+provided in the addendum section of the documentation.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
